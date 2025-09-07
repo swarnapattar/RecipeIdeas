@@ -40,5 +40,26 @@ The goal was to build a simple application where Taylor can search for recipes b
 - **React hooks** (`useState`, `useEffect`, `useMemo`) for state management  
 - **TheMealDB API** as the recipe source  
 
+---
+
+## 🚀 Getting Started
+
+You can run this project either on your **local machine** or directly in **CodeSandbox**.
+
+---
+
+### 🟢 Option 1: Run in CodeSandbox (easiest)
+1. Import this GitHub repo into [CodeSandbox](https://codesandbox.io/).
+2. CodeSandbox will automatically install dependencies (no need to run `npm install`).
+3. Once it finishes, the app will start and you can preview it right away. 🎉
+
+---
+
+### 💻 Option 2: Run locally on your machine
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
+
 
 
